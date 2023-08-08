@@ -80,7 +80,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Output](./calculator.png)
+![calculator](https://github.com/Yuvan291205/calc/assets/138849170/47dec99f-55aa-4175-9a64-b75f7c79d16e)
+
 
 
 ## RESULT:
